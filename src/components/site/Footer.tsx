@@ -12,17 +12,17 @@ export function Footer() {
           >
             <Eye className="h-4 w-4" />
           </span>
-          <span className="font-display font-semibold">OcuTriage</span>
+          <span className="font-display font-semibold">iCheck</span>
         </div>
 
         <p className="text-xs text-muted-foreground max-w-md">
-          OcuTriage is informational and triage-oriented. It is not a substitute
+          iCheck is informational and triage-oriented. It is not a substitute
           for professional medical diagnosis or treatment. In an emergency, call
           your local emergency number immediately.
         </p>
 
         <p className="text-xs text-muted-foreground">
-          © {new Date().getFullYear()} OcuTriage. All rights reserved.
+          © {new Date().getFullYear()} iCheck. All rights reserved.
         </p>
       </div>
     </footer>

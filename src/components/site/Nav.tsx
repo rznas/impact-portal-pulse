@@ -23,7 +23,7 @@ export function Nav() {
         aria-label="Primary"
         className="mx-auto max-w-7xl px-6 lg:px-10 h-16 flex items-center justify-between"
       >
-        <a href="#top" className="flex items-center gap-2 group" aria-label="OcuTriage home">
+        <a href="#top" className="flex items-center gap-2 group" aria-label="iCheck home">
           <span
             className="grid place-items-center h-9 w-9 rounded-lg text-primary-foreground"
             style={{ background: "var(--gradient-primary)" }}
@@ -32,7 +32,7 @@ export function Nav() {
             <Eye className="h-5 w-5" />
           </span>
           <span className="font-display font-semibold text-lg tracking-tight">
-            OcuTriage
+            iCheck
           </span>
         </a>
 

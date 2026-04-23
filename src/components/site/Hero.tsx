@@ -42,7 +42,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.15 }}
             className="mt-6 text-lg text-muted-foreground max-w-xl leading-relaxed"
           >
-            OcuTriage is a conversational AI assistant that gathers symptoms,
+            iCheck is a conversational AI assistant that gathers symptoms,
             rules out emergencies first, and routes patients to the right level
             of care — with seamless appointment booking. Safe, multilingual, and
             built for accessibility.

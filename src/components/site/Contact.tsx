@@ -114,7 +114,7 @@ export function Contact() {
             />
             <label htmlFor="consent" className="text-sm text-muted-foreground">
               I agree to the privacy policy and consent to being contacted about
-              OcuTriage.
+              iCheck.
             </label>
           </div>
 

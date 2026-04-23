@@ -41,7 +41,7 @@ export function Solution() {
             A 5-phase, safety-first triage protocol — designed with clinicians.
           </h2>
           <p className="mt-5 text-lg text-muted-foreground">
-            OcuTriage rules out the dangerous before narrowing the routine. Each
+            iCheck rules out the dangerous before narrowing the routine. Each
             phase is explainable, auditable, and grounded in a curated medical
             knowledge graph.
           </p>

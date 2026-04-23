@@ -29,22 +29,22 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "OcuTriage — AI Ocular Triage for Faster, Safer Eye Care" },
+      { title: "iCheck — AI Ocular Triage for Faster, Safer Eye Care" },
       {
         name: "description",
         content:
           "Clinically-grounded AI triage for eye complaints. Safety-first decision tree, multilingual, accessible. Built on GraphRAG, LangGraph & Chainlit with seamless booking via Paziresh24.",
       },
-      { name: "author", content: "OcuTriage" },
+      { name: "author", content: "iCheck" },
       { name: "theme-color", content: "#0f4f5e" },
-      { property: "og:title", content: "OcuTriage — AI Ocular Triage" },
+      { property: "og:title", content: "iCheck — AI Ocular Triage" },
       {
         property: "og:description",
         content: "Safety-first AI triage for eye health. Multilingual, accessible, clinician-aligned.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@OcuTriage" },
+      { name: "twitter:site", content: "@iCheck" },
     ],
     links: [
       {
