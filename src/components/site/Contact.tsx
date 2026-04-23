@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Twitter, Globe } from "lucide-react";
+import { Mail, Phone, MapPin, MessageCircle, Globe } from "lucide-react";
 
 export function Contact() {
   return (
