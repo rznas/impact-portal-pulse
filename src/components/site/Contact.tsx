@@ -58,10 +58,10 @@ export function Contact() {
           <div className="mt-10 flex items-center gap-3">
             <a
               href="#"
-              aria-label="Twitter"
+              aria-label="Chat with us"
               className="grid place-items-center h-10 w-10 rounded-lg border border-border hover:bg-muted transition"
             >
-              <Twitter className="h-4 w-4" />
+              <MessageCircle className="h-4 w-4" />
             </a>
             <a
               href="#"
