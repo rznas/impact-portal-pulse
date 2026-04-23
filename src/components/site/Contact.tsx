@@ -25,7 +25,7 @@ export function Contact() {
                 <p className="text-xs uppercase tracking-wider text-muted-foreground">Email</p>
                 <a href="mailto:{{EMAIL}}" className="font-medium hover:text-primary transition">
                   {/* TODO: fill in */}
-                  hello@yourdomain.com
+                  hello@icheck.com
                 </a>
               </div>
             </li>
@@ -37,7 +37,7 @@ export function Contact() {
                 <p className="text-xs uppercase tracking-wider text-muted-foreground">Phone</p>
                 <a href="tel:{{PHONE}}" className="font-medium hover:text-primary transition">
                   {/* TODO: fill in */}
-                  +__ ___ ___ ____
+                  +98 937 670 9699
                 </a>
               </div>
             </li>
@@ -49,7 +49,7 @@ export function Contact() {
                 <p className="text-xs uppercase tracking-wider text-muted-foreground">Office</p>
                 <p className="font-medium">
                   {/* TODO: fill in */}
-                  Your address here
+                  Tehran, Iran
                 </p>
               </div>
             </li>
