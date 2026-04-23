@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Linkedin, Github } from "lucide-react";
+import { Mail, Phone, MapPin, Twitter, Globe } from "lucide-react";
 
 export function Contact() {
   return (
@@ -58,17 +58,17 @@ export function Contact() {
           <div className="mt-10 flex items-center gap-3">
             <a
               href="#"
-              aria-label="LinkedIn"
+              aria-label="Twitter"
               className="grid place-items-center h-10 w-10 rounded-lg border border-border hover:bg-muted transition"
             >
-              <Linkedin className="h-4 w-4" />
+              <Twitter className="h-4 w-4" />
             </a>
             <a
               href="#"
-              aria-label="GitHub"
+              aria-label="Website"
               className="grid place-items-center h-10 w-10 rounded-lg border border-border hover:bg-muted transition"
             >
-              <Github className="h-4 w-4" />
+              <Globe className="h-4 w-4" />
             </a>
           </div>
         </div>
